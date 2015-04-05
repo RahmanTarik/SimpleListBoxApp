@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ListBoxApp
 {
-    class Test
+    public class Test
     {
+        private int number = 0;
     }
 }
