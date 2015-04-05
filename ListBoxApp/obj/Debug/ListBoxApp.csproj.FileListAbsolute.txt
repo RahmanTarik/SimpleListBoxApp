@@ -1,0 +1,9 @@
+E:\SEIP_Practice\ListBoxApp\ListBoxApp\bin\Debug\ListBoxApp.exe.config
+E:\SEIP_Practice\ListBoxApp\ListBoxApp\bin\Debug\ListBoxApp.exe
+E:\SEIP_Practice\ListBoxApp\ListBoxApp\bin\Debug\ListBoxApp.pdb
+E:\SEIP_Practice\ListBoxApp\ListBoxApp\obj\Debug\ListBoxApp.csprojResolveAssemblyReference.cache
+E:\SEIP_Practice\ListBoxApp\ListBoxApp\obj\Debug\ListBoxApp.AddNumberToListBox.resources
+E:\SEIP_Practice\ListBoxApp\ListBoxApp\obj\Debug\ListBoxApp.Properties.Resources.resources
+E:\SEIP_Practice\ListBoxApp\ListBoxApp\obj\Debug\ListBoxApp.csproj.GenerateResource.Cache
+E:\SEIP_Practice\ListBoxApp\ListBoxApp\obj\Debug\ListBoxApp.exe
+E:\SEIP_Practice\ListBoxApp\ListBoxApp\obj\Debug\ListBoxApp.pdb
